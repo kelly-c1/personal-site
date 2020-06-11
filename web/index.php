@@ -30,6 +30,7 @@
 		<!--Photo-->
 		<h1>Christien Kelly</h1>
 		<h5>Data Scientist/Data Journalist</h5>
+		<br>
 		<h3><a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a></h3>
 		<br>
 		<p id="bio">Hi! 👋🏾, I'm Christien Kelly - I'm a Data Scientist (recent graduate from Denison University 🎉).
