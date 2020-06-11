@@ -5,6 +5,7 @@
 	<link rel="icon" type="image/png" href="icon.png">
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:400,800">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="footer/css/font-awesome/css/font-awesome.min.css">
 	<meta content="width=device-width,initial-scale=1" name="viewport">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
 	<!-- This enables jQuery, this snipet of code uses the online API of JQuery -->
@@ -36,9 +37,9 @@
 			<a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a>
 			<!-- <a href="about.html"><li>About</li></a> -->
 			<!-- dash here? -->
-			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li>LinkedIn</li></a>
-			<a href="https://github.com/kelly-c1"><li>Github</li></a>
-			<a href="mailto:kelly_c1@denison.edu"><li>Contact Me!</li></a>
+			<a href="https://www.linkedin.com/in/christien-k-770080107/"><i class="fa fa-linkedin"></i><li></li></a>
+			<a href="https://github.com/kelly-c1"><i class="fa fa-github"></i><li></li></a>
+			<a href="mailto:kelly_c1@denison.edu"><li><i class="fa fa-mail"></i></li></a>
 		</ul>
 	</div>
 </div>
