@@ -9,11 +9,11 @@
 	<div class = "footer">
 		<div class="inner_footer"> 
 			<div class="logo_container"> 
-				<img src="photos/logo.png">
+				<!--<img src="photos/logo.png">-->
 			</div>
 			<div class="footer_third">
 				<h1> </h1>
-				<li>Last Updated: June 11, 2020</li>
+				<li><a>Last Updated: June 11, 2020</a></li>
 			</div>
 			<div class="footer_third">
 				<h1> </h1>
