@@ -31,7 +31,7 @@ a:hover{
 
 .logo_container h1{
 	color: white;
-	height: 100%;
+	/*height: 100%;*/
 	display: table-cell;
 	vertical-align: middle;
 	font-family: "Montserrat";
@@ -144,11 +144,11 @@ a:hover{
 
 .logo_container h1{
 	color: white;
-	height: 100%;
+	/*height: 100%;*/
 	display: table-cell;
 	vertical-align: middle;
 	font-family: "Montserrat";
-	font-size: 23.68;
+	font-size: 15;
 	font-weight: 74.4;
 }
 
