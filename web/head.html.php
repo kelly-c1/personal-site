@@ -37,10 +37,10 @@
 			
 			<!-- <a href="about.html"><li>About</li></a> -->
 			<!-- dash here? -->
-			<li><a href="ChristienKelly–Resume.pdf" download>Resume</a></li>
-			<li><a href="https://www.linkedin.com/in/christien-k-770080107/"><i class="fa fa-linkedin"></i></a></li>
-			<li><a href= "https://github.com/kelly-c1" ><i class="fa fa-github"></i></a></li>
-			<li><a href = "mailto:kelly_c1@denison.edu"><i class="fa fa-envelope"></i></a></li>
+			<a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a>
+			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li><i class="fa fa-linkedin"></i></li></a>
+			<a href= "https://github.com/kelly-c1" ><li><i class="fa fa-github"></i></li></a>
+			<a href = "mailto:kelly_c1@denison.edu"><li><i class="fa fa-envelope"></i></li></a>
 		</ul>
 	</div>
 </div>
