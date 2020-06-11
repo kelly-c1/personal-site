@@ -33,7 +33,7 @@
 		<br>
 		<h4><a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a></h4>
 		<br>
-		<p id="bio">Hi! 👋🏾, I'm Christien Kelly - I'm a Data Scientist (recent graduate from Denison University 🎉).
+		<p>Hi! 👋🏾, I'm Christien - I'm a Data Scientist (recent graduate from Denison University 🎉).
 		Co-Founder of <b>Globe Ups</b> 🌎, a news curation platform dedicated to sharing global data stories with young adults.</p>
 		<br>
 		<br>
