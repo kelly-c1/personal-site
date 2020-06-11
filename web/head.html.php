@@ -29,7 +29,7 @@
 	<div class = "inner_header">
 
 		<div class = "logo_container">
-				<h1><span>Christien</span>Kelly</h1>
+				<h1><span>C</span>Kelly</h1>
 				<!--<img src='logo.png'/>-->	
 		</div>
 
