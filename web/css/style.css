@@ -42,11 +42,6 @@ a:hover{
 .logo_container h1 span{
 	font-weight: 1000;
 }
-.logo_container img{
-	background-size: 100% 100%;
-	display: table-cell;
-	vertical-align: middle;
-}
 
 .navigation {
 	float: right;
@@ -120,7 +115,7 @@ a:hover{
 	padding-bottom: 20px;
 }
 
-@media(max-width: 900px) and (min-width: 700px){
+@media(max-width: 900px) and (min-width: 640px){
 
 .header {
 	width: 100%;
@@ -148,7 +143,7 @@ a:hover{
 	display: table-cell;
 	vertical-align: middle;
 	font-family: "Montserrat";
-	font-size: 15;
+	font-size: 3;
 	font-weight: 74.4;
 }
 
@@ -230,14 +225,5 @@ a:hover{
 	padding-bottom: 14px;
 }
 
-.box {
-	width: 60%;
-	background: rgba(0,0,0,0.4);
-	padding: 14px;
-	text-align: center;
-	margin: auto;
-	margin-top: 2%;
-	color: white;
-	font-family: 'Montserrat';
-}
+
 	}
