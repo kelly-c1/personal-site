@@ -34,10 +34,10 @@
 		</div>
 
 		<ul class = "navigation">
-			<a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a>
+			
 			<!-- <a href="about.html"><li>About</li></a> -->
 			<!-- dash here? -->
-			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li><i class="fa fa-linkedin icon-large"></i><i class="fa fa-github icon-2x"></i><i class="fa fa-envelope icon-large"></i></li></a>
+			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li><a href="ChristienKelly–Resume.pdf" download>Resume</a>&nbsp;&nbsp;|&nbsp;&nbsp;<i class="fa fa-linkedin icon-large"></i>&nbsp;&nbsp;|&nbsp;&nbsp;<i class="fa fa-github icon-2x"></i>&nbsp;&nbsp;|&nbsp;&nbsp;<i class="fa fa-envelope icon-large"></i></li></a>
 		</ul>
 	</div>
 </div>
