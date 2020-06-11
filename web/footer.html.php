@@ -23,7 +23,6 @@
 
 			<div class="footer_third">
 				<h1>.</h1>
-				<li><a href="">Contact</a></li>
 			</div>
 
 			<div class="footer_third">
