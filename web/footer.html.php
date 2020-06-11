@@ -12,6 +12,10 @@
 				<img src="photos/logo.png">
 			</div>
 			<div class="footer_third">
+				<h1> </h1>
+			</div>
+
+			<div class="footer_third">
 				<h1>.</h1>
 				<li><a><b>Publisher:</b></a></li>
 				<li><a>Christien Kelly</a></li>
@@ -19,10 +23,6 @@
 				<!-- Space here -->
 				<li><a><b>Updated:</b></a></li>
 				<li><a>June 11, 2020</a></li>
-			</div>
-
-			<div class="footer_third">
-				<h1> </h1>
 			</div>
 
 			<div class="footer_third">
