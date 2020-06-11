@@ -11,11 +11,9 @@
 			<div class="logo_container"> 
 				<img src="photos/logo.png">
 			</div>
-			<!--
 			<div class="footer_third">
 				<h1> </h1>
 			</div>
-			-->
 			<div class="footer_third">
 				<h1>.</h1>
 				<li><a><b>Publisher:</b></a></li>
