@@ -33,7 +33,7 @@
 		</div>
 
 		<ul class = "navigation">
-			<a href="ChristienKelly–Resume.pdf"><li>Resume</li></a>
+			<a href="ChristienKelly–Resume.pdf" download><li>Resume</li></a>
 			<!-- <a href="about.html"><li>About</li></a> -->
 			<!-- dash here? -->
 			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li>LinkedIn</li></a>
