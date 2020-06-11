@@ -44,6 +44,9 @@ a:hover{
 	font-weight: 1000;
 }
 
+.main {
+	height: 100%;
+}
 .navigation {
 	float: right;
 	height: 100%;
