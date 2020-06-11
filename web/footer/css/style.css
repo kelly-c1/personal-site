@@ -23,10 +23,11 @@
 }
 
 .inner_footer .logo_container {
-	width: 35%;
+	width: 30%;
 	float: left;
 	height: 100%;
 	display: block;
+	margin: auto;
 }
 
 .inner_footer .logo_container img {
@@ -36,8 +37,8 @@
 
 .inner_footer .footer_third {
 	width: calc(16.25% - 20px);
-	margin-right: 10px;
-	/*margin: auto;*/
+	/*margin-right: 10px; */
+	margin: auto;
 	float: right;
 	height: 100%;
 }
@@ -97,13 +98,14 @@
 }
 
 .inner_footer .logo_container img {
-	width: 60px;
+	width: 40px;
 	height: auto;
 }
 
 .inner_footer .footer_third {
 	width: calc(16.25% - 20px);
 	margin-right: 7px;
+	margin:auto;
 	float: left;
 	height: 100%;
 }
