@@ -120,17 +120,6 @@ a:hover{
 	padding-bottom: 20px;
 }
 
-.box {
-	width: 60%;
-	background: rgba(0,0,0,0.4);
-	padding:20px;
-	text-align: center;
-	margin: auto;
-	margin-top: 2%;
-	color: white;
-	font-family: 'Montserrat';
-}
-
 @media(max-width: 900px) and (min-width: 700px){
 
 .header {
