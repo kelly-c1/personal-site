@@ -13,7 +13,7 @@
 			</div>
 			<div class="footer_third">
 				<h1>.</h1>
-				<li><a><b>Creator:</b></a></li>
+				<li><a><b>Published By:</b></a></li>
 				<li><a>Christien Kelly</a></li>
 				<br><br>
 				<!-- Space here -->

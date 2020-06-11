@@ -31,11 +31,10 @@
 		<h1>Christien Kelly</h1>
 		<h5>Data Scientist/Data Journalist</h5>
 		<br><br><br>
-		<p>Hi! 👋🏾, I'm Christien Kelly - I'm a Data Scientist (recent graduate from Denison University 🎉).<br>
+		<p id="bio">Hi! 👋🏾, I'm Christien Kelly - I'm a Data Scientist (recent graduate from Denison University 🎉).<br>
 		Co-Founder of <b>Globe Ups</b> 🌎, a news curation platform dedicated to sharing global data stories with young adults.</p>
 		<br>
 		<br>
-		<p><b>Projects coming soon...</b></p>
 	</div>
 
 	<!-- have arrow disappear as I scroll,

@@ -38,6 +38,7 @@
 			<!-- dash here? -->
 			<a href="https://www.linkedin.com/in/christien-k-770080107/"><li>LinkedIn</li></a>
 			<a href="https://github.com/kelly-c1"><li>Github</li></a>
+			<a href=""><li>Contact Me!</li></a>
 		</ul>
 	</div>
 </div>
