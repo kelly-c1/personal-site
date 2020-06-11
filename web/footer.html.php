@@ -20,11 +20,11 @@
 				<li><a><b>Last Modified:</b></a></li>
 				<li><a>23-05-2020</a></li>
 			</div>
-
+			<!--
 			<div class="footer_third">
 				<h1>.</h1>
 			</div>
-
+			-->
 			<div class="footer_third">
 				<h1>Follow</h1>
 				<li><a href="https://www.facebook.com/globe_ups-107726370872514"><i class="fa fa-facebook"></i></a></li>
