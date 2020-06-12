@@ -23,11 +23,18 @@ a:hover{
 	margin: 0 auto;
 }
 
-.logo_container{
+.inner_header table {
 	height: 100%;
 	display: table;
-	float: left;
-	width: 50%;
+	margin: auto;
+	width: 80%;
+}
+
+.inner_header table tr td{
+	vertical-align: middle;
+	display: table-cell;
+	font-family: "Montserrat";
+	font-weight: 100;
 }
 
 .logo_container h1{
