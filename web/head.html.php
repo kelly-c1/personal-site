@@ -35,9 +35,9 @@
 			
 					<!-- <a href="about.html"><li>About</li></a> -->
 					<!-- dash here? -->
-						<a href="https://www.linkedin.com/in/christien-k-770080107/"><li><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></li></a>
-						<a href= "https://github.com/kelly-c1" ><li><i class="fa fa-github fa-lg" aria-hidden="true"></i></li></a>
-						<a href = "mailto:kelly_c1@denison.edu"><li><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></li></a>
+						<a href="https://www.linkedin.com/in/christien-k-770080107/"><li><i class="fa fa-linkedin" aria-hidden="true"></i></li></a>
+						<a href= "https://github.com/kelly-c1" ><li><i class="fa fa-github" aria-hidden="true"></i></li></a>
+						<a href = "mailto:kelly_c1@denison.edu"><li><i class="fa fa-envelope" aria-hidden="true"></i></li></a>
 					</ul>
 				</td>
 			</tr>
