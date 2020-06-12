@@ -105,7 +105,7 @@ a:hover{
 
 .header {
 	width: 100%;
-	height: 59.2px;
+	height: 74%;
 	display: block;
 	background-color: #101010;
 }
@@ -117,30 +117,29 @@ a:hover{
 	margin: 0 auto;
 }
 
-.logo_container{
+.table_container {
 	height: 100%;
-	display: table;
-	float: left;
+	width: 100%;
+	margin: auto;
+	font-family: "Montserrat";
+	font-weight: 100;
 }
 
-.logo_container h1{
+
+
+.logo_container{
 	color: white;
-	/*height: 100%;*/
 	display: table-cell;
 	vertical-align: middle;
 	font-family: "Montserrat";
-	font-size: 3;
-	font-weight: 74.4;
+	font-size: 74%;
+	font-weight: 100;
 }
 
-.logo_container h1 span{
-	font-weight: 744;
+.logo_container span{
+	font-weight: 1000;
 }
-.logo_container img{
-	background-size: 100% 100%;
-	display: table-cell;
-	vertical-align: middle;
-}
+
 
 .navigation {
 	float: right;
@@ -148,12 +147,11 @@ a:hover{
 }
 
 
-
 .navigation a{
 	height: 100%;
 	display: table;
 	float: left;
-	padding: 0px 14px;
+	padding: 0px 74%;
 }
 
 
@@ -168,25 +166,7 @@ a:hover{
 	height: 100%;
 	color: white;
 	font-family: 'Montserrat';
-	font-size: 9px;
-}
-
-
-.filters li {
-	display: table-cell;
-	vertical-align: middle;
-	height: 100%;
-	color: white;
-	font-family: 'Montserrat';
-	font-size: 9px;
-	padding-right: 3px;
-}
-
-.project {
-	width: 100%;
-	padding-right: 14px;
-	background-color: white;
-	color: black;
+	font-size: 20px;
 }
 
 .project td {
@@ -195,9 +175,10 @@ a:hover{
 
 .box_profile {
 	width: 60%;
+	height: 80%;
 	background: white;
-	padding: 29.6px;
 	text-align: center;
+	padding: 40px;
 	margin: auto;
 	margin-top: 5%;
 	color: black;
@@ -206,9 +187,12 @@ a:hover{
 
 .box_profile img {
 	border-radius: 50%;
-	width: 148px;
-	height: 148px;
-	padding-bottom: 14px;
+	width: 74%;
+	height: 74%;
+	padding-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 
