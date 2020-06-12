@@ -29,7 +29,7 @@
 	<div class = "inner_header">
 		<table class="table_container">
 			<tr>
-				<td><h1><span>Christien</span>Kelly</h1></td>
+				<td><h1 class="logo_container"><span>Christien</span>Kelly</h1></td>
 				<td>
 					<ul class = "navigation">
 			

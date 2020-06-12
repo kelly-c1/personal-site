@@ -33,7 +33,7 @@ a:hover{
 
 
 
-.logo_container h1{
+.logo_container{
 	color: white;
 	/*height: 100%;*/
 	display: table-cell;
@@ -43,7 +43,7 @@ a:hover{
 	font-weight: 100;
 }
 
-.logo_container h1 span{
+.logo_container span{
 	font-weight: 1000;
 }
 
