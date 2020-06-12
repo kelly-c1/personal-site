@@ -132,7 +132,7 @@ a:hover{
 	display: table-cell;
 	vertical-align: middle;
 	font-family: "Montserrat";
-	font-size: 74%;
+	font-size: 60%;
 	font-weight: 100;
 }
 
@@ -151,7 +151,7 @@ a:hover{
 	height: 100%;
 	display: table;
 	float: left;
-	padding: 0px 74%;
+	padding: 0px 60%;
 }
 
 
@@ -187,8 +187,8 @@ a:hover{
 
 .box_profile img {
 	border-radius: 50%;
-	width: 74%;
-	height: 74%;
+	width: 60%;
+	height: 60%;
 	padding-bottom: 20px;
 	margin-right: auto;
 	margin-left: auto;
