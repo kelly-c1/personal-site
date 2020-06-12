@@ -3,28 +3,23 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="footer/css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="footer/css/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
 	<div class = "footer">
 		<div class="inner_footer"> 
-			<div class="logo_container"> 
-				<!--<img src="photos/logo.png">-->
-			</div>
-			<div class="footer_third">
-				<h1> </h1>
-				<li><a>Last Updated: June 11, 2020</a></li>
-			</div>
-			<div class="footer_third">
-				<h1> </h1>
-			</div>
-
-			<div class="footer_third">
-				<h1>Follow</h1>
-				<!--<li><a href="https://www.facebook.com/globe_ups-107726370872514"><i class="fa fa-facebook"></i></a></li>-->
-				<li><a href="https://twitter.com/ChristienKelly1"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://www.instagram.com/christien_kelly/"><i class="fa fa-instagram"></i></a></li>
-			</div>
+			<table class="logo_container"> 
+				<tr>
+				<td><h1 class="logo_container"><span>Last Updated:</span>June 12, 2020</h1></td>
+				<td>
+					<ul class = "navigation">
+						<a href="https://twitter.com/ChristienKelly1"><li><i class="fa fa-twitter"></i></li></a>
+						<a href="https://www.instagram.com/christien_kelly/"><li><i class="fa fa-instagram"></i></li></a>
+					</ul>
+				</td>
+			</tr>
+			</table>
 		</div>
 	</div>
 </body>
