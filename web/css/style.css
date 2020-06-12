@@ -42,10 +42,22 @@ a:hover{
 	font-weight: 100;
 }
 
+.footer_date{
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: "Montserrat";
+	font-size: 16px;
+	font-weight: 100;
+}
+
 .logo_container span{
 	font-weight: 1000;
 }
 
+.footer_date span {
+	font-weight: 1000;
+}
 
 .navigation {
 	float: right;
@@ -136,10 +148,22 @@ a:hover{
 	font-weight: 100;
 }
 
+.footer_date {
+	color: white;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: "Montserrat";
+	font-size: 60%;
+	font-weight: 100;
+}
+
 .logo_container span{
 	font-weight: 1000;
 }
 
+.footer_date span{
+	font-weight: 1000;
+}
 
 .navigation {
 	float: right;
