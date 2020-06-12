@@ -23,19 +23,20 @@ a:hover{
 	margin: 0 auto;
 }
 
-.inner_header .table_container {
+.table_container {
 	height: 100%;
-	display: table;
+	width: 100%;
 	margin: auto;
-	width: 80%;
-	vertical-align: middle;
-	display: table-cell;
-}
-
-.inner_header .table_container tr td{
-	
 	font-family: "Montserrat";
 	font-weight: 100;
+}
+
+.table_container tr {
+	background-color: blue;
+}
+
+.table_container tr td{
+	background-color: red;
 }
 
 .logo_container h1{
@@ -89,15 +90,12 @@ a:hover{
 	width: 60%;
 	height: 80%;
 	background: white;
+	text-align: center;
 	padding: 40px;
 	margin: auto;
 	margin-top: 5%;
 	color: black;
 	font-family: 'Montserrat';
-}
-
-.box_profile h3,h4,h5 {
-	text-align: center;
 }
 
 .box_profile img {
