@@ -7,6 +7,7 @@
 
 .footer {
 	width: 100vw;
+	height: 20px;
 	display: block;
 	overflow: hidden;
 	padding: 20px 0;
@@ -20,51 +21,6 @@
 	margin: 0 auto;
 	width: 70%;
 	height: 100%;
-}
-
-.inner_footer table {
-	width: 80%;
-	height: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	margin: auto;
-}
-
-.inner_footer .footer_third {
-	width: calc(21.6666666666666666667% - 20px);
-	margin-right: 10px;
-	float: right;
-	height: 100%;
-}
-
-.inner_footer .footer_third:last-child{
-	margin-right: 0;
-}
-
-.inner_footer .footer_third h1{
-	font-family: 'Montserrat';
-	font-size: 20px;
-	color: white;
-	display: block;
-	width: 100%;
-	margin-bottom: 20px;
-}
-
-.inner_footer .footer_third a{
-	font-family: 'Montserrat';
-	font-size: 16px;
-	color: white;
-	display: block;
-	font-weight: 200px;
-	width: 100%;
-	padding-bottom: 2px;
-}
-
-.inner_footer .footer_third li{
-	display: inline-block;
-	padding: 0 5px;
-	font-size: 20px;
 }
 
 @media(max-width: 900px) and (min-width: 700px){
