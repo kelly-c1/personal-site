@@ -31,13 +31,7 @@ a:hover{
 	font-weight: 100;
 }
 
-.table_container tr {
-	background-color: blue;
-}
 
-.table_container tr td{
-	background-color: red;
-}
 
 .logo_container h1{
 	color: white;
