@@ -1,4 +1,5 @@
 *{
+	height: 100%;
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -12,7 +13,7 @@
 	padding: 20px 0;
 	box-sizing: border-box;
 	background-color: #18181a;
-	bottom: 0;
+	position: absolute;
 }
 
 .inner_footer {
