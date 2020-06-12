@@ -27,7 +27,7 @@
 <div class = "header">
 		
 	<div class = "inner_header">
-		<table>
+		<table class="table_container">
 			<tr>
 				<td><h1><span>Christien</span>Kelly</h1></td>
 				<td>

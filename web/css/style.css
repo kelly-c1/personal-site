@@ -23,16 +23,17 @@ a:hover{
 	margin: 0 auto;
 }
 
-.inner_header table {
+.inner_header .table_container {
 	height: 100%;
 	display: table;
 	margin: auto;
 	width: 80%;
-}
-
-.inner_header table tr td{
 	vertical-align: middle;
 	display: table-cell;
+}
+
+.inner_header .table_container tr td{
+	
 	font-family: "Montserrat";
 	font-weight: 100;
 }
@@ -51,9 +52,7 @@ a:hover{
 	font-weight: 1000;
 }
 
-.main {
-	height: 100%;
-}
+
 .navigation {
 	float: right;
 	height: 100%;
@@ -83,23 +82,6 @@ a:hover{
 	font-size: 20px;
 }
 
-.filters li {
-	display: table-cell;
-	vertical-align: middle;
-	height: 100%;
-	color: white;
-	font-family: 'Montserrat';
-	font-size: 16px;
-	padding-right: 5px;
-}
-
-.project {
-	width: 100%;
-	padding-right: 20px;
-	background-color: white;
-	color: black;
-}
-
 .project td {
 	width: 100%;
 }
@@ -109,15 +91,14 @@ a:hover{
 	height: 80%;
 	background: white;
 	padding: 40px;
-	text-align: center;
 	margin: auto;
 	margin-top: 5%;
 	color: black;
 	font-family: 'Montserrat';
 }
 
-.box_profile .bio {
-	text-align: left;
+.box_profile h3,h4,h5 {
+	text-align: center;
 }
 
 .box_profile img {
